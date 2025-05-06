@@ -8,3 +8,5 @@ Vamos estudar
 - estrutura de repetição
 - vetor
 - interação com DOM
+
+- Leandro Paulo Evangelista
