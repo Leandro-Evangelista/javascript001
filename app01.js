@@ -6,6 +6,10 @@
 
 let nome = "Leandro"
 let idade = 38
+
+console.log(nome, idade)
+
+
 // Operadores
 //     Operador Atribuição
 //     Operadores aritméticos
