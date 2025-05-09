@@ -54,6 +54,23 @@ console.log(!10>2) //não - inverte o resultado, se for verdadeiro muda para fal
 console.log(!false)
 console.log(10>2 && 35<100 && n1>n2) //e - todas as verificações precisam ser verdadeiras para o resultado ser verdadeiro.
 console.log(10<2 || 100 == 150 || 57==57) // Ou - apenas uma verificação precisa ser verdadeira para o resultado ser verdadeiro , o resultado só será falso quando todas as verificações forem falses.
+
+//DESAFIO
+let preco = 100
+let precoAcrescimo = 0.17
+let precoDesconto = 0.07 
+
+
+
+//faça um código que acrescente 17% ao preço e imprima .
+//faça um código que desconte 7% do preço e imprima.
+
+console.log(preco + (preco * 0.17)) //acrescimo
+console.log(preco - (preco * 0.07)) //desconto 
+
+
+
+
 // Estrutura
 //     Estrutura de controle/decisão
 //     Laços de repetição
